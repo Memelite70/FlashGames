@@ -1,1 +1,1 @@
-<h1><b>Source code for the Ruffle emuator, an essential resource for modern flash gaming
+<h1><b>Source code for the Ruffle emuator, an essential resource for modern flash gaming</b></h1>
